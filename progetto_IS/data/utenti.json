@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "username": "admin",
+        "password": "pass",
+        "email": "mario.rossi@rossi.com",
+        "telefono": "",
+        "codice_fiscale": "",
+        "tesserato": false,
+        "isAdmin": true
+    }
+]
