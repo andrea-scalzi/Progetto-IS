@@ -1,0 +1,47 @@
+[
+    {
+        "data": "2025-03-30",
+        "orario_inizio": "13:00",
+        "orario_fine": "15:00",
+        "campo": "Campo 2",
+        "squadra1": [
+            "papu p",
+            "h"
+        ],
+        "squadra2": [
+            "j",
+            "k"
+        ],
+        "username": "p"
+    },
+    {
+        "data": "2025-03-29",
+        "orario_inizio": "14:00",
+        "orario_fine": "17:00",
+        "campo": "Campo 1",
+        "squadra1": [
+            "ququ qu",
+            "jkt"
+        ],
+        "squadra2": [
+            "l",
+            "m"
+        ],
+        "username": "q"
+    },
+    {
+        "data": "2025-03-30",
+        "orario_inizio": "10:00",
+        "orario_fine": "13:00",
+        "campo": "Campo 3",
+        "squadra1": [
+            "adm",
+            "fg"
+        ],
+        "squadra2": [
+            "h",
+            "j"
+        ],
+        "username": "a"
+    }
+]

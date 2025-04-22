@@ -1,0 +1,17 @@
+[
+    {
+        "data": "2025-04-20",
+        "orario_inizio": "15:00",
+        "orario_fine": "17:00",
+        "campo": "Campo Verde",
+        "squadra1": [
+            "Luca Verdi",
+            "Alessio Bianchi"
+        ],
+        "squadra2": [
+            "Andrea Viola",
+            "Antonio Gialli"
+        ],
+        "username": "a"
+    }
+]

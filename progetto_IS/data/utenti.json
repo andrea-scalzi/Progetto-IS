@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "Mario",
+        "cognome": "Rossi",
+        "username": "a",
+        "password": "p",
+        "email": "mario.rossi@email.com",
+        "tessera": null,
+        "isAdmin": true
+    },
+    {
+        "id": 2,
+        "nome": "Alessio",
+        "cognome": "Bianchi",
+        "username": "c",
+        "password": "p",
+        "email": "ABianchi@email.it",
+        "tessera": null,
+        "isAdmin": false
+    },
+    {
+        "id": 3,
+        "nome": "Andrea",
+        "cognome": "Viola",
+        "username": "ct",
+        "password": "p",
+        "email": "AndViola@email.com",
+        "tessera": {
+            "telefono": "123456789",
+            "codice_fiscale": "AV123VA456",
+            "data_tesseramento": "2025-04-20",
+            "data_scadenza": "2026-04-20"
+        },
+        "isAdmin": false
+    }
+]
